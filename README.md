@@ -25,7 +25,7 @@ Here you will see "imperative_hw4.cpp" C++ file:
   
 In order to run F# code, you need to locate in the terminal to the folder path "/functional-programming-eimanov2018/Option A/F#"
 
-Here you will see 2 files: "main.fs" which is Windows .NET executable F# file, and "main.fsx" which is Mac OS X executable F# file:
+Here you will "main.fsx" which is .NET executable F# file:
   In order to execute the F# code from the terminal, you need to compile and run the main.fsx:
   Compilation and execution happens at once by executing the following command:
   
